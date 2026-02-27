@@ -1,0 +1,5 @@
+{
+  "name": "FaceGPT",
+  "description": "A sentiment-aware chatbot that expresses emotions through emojis before responding to your queries.",
+  "requestFramePermissions": []
+}
